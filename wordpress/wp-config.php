@@ -35,7 +35,7 @@ define('DB_COLLATE', '');
 
 /** for glusterfs @nanhapark **/
 define('UPLOADS', '../uploads');
-define('WP_PLUGIN_DIR', '../../uploads');
+//define('WP_PLUGIN_DIR', '../../uploads');
 
 /**#@+
  * Authentication Unique Keys and Salts.
