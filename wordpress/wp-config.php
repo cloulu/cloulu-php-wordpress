@@ -33,6 +33,10 @@ define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
+/** for glusterfs @nanhapark **/
+define('UPLOADS', '../uploads');
+define('WP_PLUGIN_DIR', '../../uploads');
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
